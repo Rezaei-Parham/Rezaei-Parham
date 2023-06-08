@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on a music generating model
 - 🌱 I’m currently learning RNN
 - 📫 How to reach me: pigeon post
-- 😄 Pronouns: I don't give a fuck
+- 😄 Pronouns: I don't give a flying ****
 
 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
