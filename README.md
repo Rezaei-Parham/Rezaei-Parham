@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=53F7CF&width=435&lines=Deep+Learning+Enthusiasist;Wubba+Lubba+Dub+Dub)](https://git.io/typing-svg)
 ---
 
-- 🔭 I’m currently working on a music generating project
+- 🔭 I’m currently working on a music generating model
 - 🌱 I’m currently learning RNN
-- 📫 How to reach me: pigeo post
+- 📫 How to reach me: pigeon post
 - 😄 Pronouns: I don't give a fuck
 
 
