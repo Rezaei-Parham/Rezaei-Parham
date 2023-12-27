@@ -3,10 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=53F7CF&width=435&lines=Deep+Learning+Enthusiast;Wubba+Lubba+Dub+Dub)](https://git.io/typing-svg)
 ---
 
-- 🔭 I’m currently working on a multimodal project.
-- 🌱 I’m currently learning about the interpretability of CLIP.
-- 📫 How to reach me: pigeon post
-- 😄 Pronouns: I don't give a flying ****
+- 🔭 I’m currently trying to implement variations of nerf using pytorch.
+- 🌱 I’m currently learning about generative models for 3d data.
+- 📫 How to reach me: parhamix@gmail.com
 
 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
