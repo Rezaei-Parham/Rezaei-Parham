@@ -4,7 +4,7 @@
 ---
 
 - 🔭 I’m currently trying to implement variations of nerf using pytorch.
-- 🌱 I’m currently learning about generative models for 3d data.
+- 🌱 I’m currently learning about generative models for 3D data.
 - 📫 How to reach me: parhamix@gmail.com
 
 
