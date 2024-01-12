@@ -15,13 +15,13 @@
     
 
  <img alt="cyberrosa's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=cyberrosa&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=53F7CF&icon_color=53F7CF" height="192px"/></a>
-  <img alt="cyberrosa's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=cyberrosa&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=53F7CF&icon_color=53F7CF&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <img alt="parham's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rezaei-parham&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=53F7CF&icon_color=53F7CF&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
- <img alt="cyberrosa's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=cyberrosa&bg_color=1F222E&color=53F7CF&line=53F7CF&point=FFFFFF&hide_border=true" /></a>
+ <img alt="parham's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=rezaei-parham&bg_color=1F222E&color=53F7CF&line=53F7CF&point=FFFFFF&hide_border=true" /></a>
 
  ![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/cyberrosa/cyberrosa)
+![GitHub last commit](https://img.shields.io/github/last-commit/rezaei-parham/rezaei-parham)
 
 
 
