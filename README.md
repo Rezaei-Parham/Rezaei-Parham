@@ -1,9 +1,9 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I'm Parham...  
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=53F7CF&width=435&lines=Deep+Learning+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=53F7CF&width=435&lines=Neural+Rendering+Enthusiast)](https://git.io/typing-svg)
 ---
 
-- 🔭 I’m currently trying to implement variations of nerf using pytorch.
+- 🔭 I’m currently trying to implement variations of NeRF.
 - 🌱 I’m currently learning about generative models for 3D data.
 - 📫 How to reach me: parhamix@gmail.com
 
