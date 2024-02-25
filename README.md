@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning about generative models for 3D data.
 - 📫 How to reach me: parhamix@gmail.com
 
-<p> <img src="https://komarev.com/ghpvc/?username=rezaei-parham&label=Profile%20views&color=0e75b6&style=flat" alt="rezaei-parham" /> </p>
+
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <img alt="parham's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rezaei-parham&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=53F7CF&icon_color=53F7CF&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
